@@ -1,0 +1,22 @@
+# General
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python specific
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+env/
+venv/
+*.pyvenv
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
